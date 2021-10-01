@@ -1,2 +1,2 @@
-# SPARK-project_challanges
-This is the repository for the SPARK project ideas
+# Overview
+Repository containing resources of the Raspberrypi Labs program
