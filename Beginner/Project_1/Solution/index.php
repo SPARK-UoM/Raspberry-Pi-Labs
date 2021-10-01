@@ -55,7 +55,7 @@
         </div>
 
         <div class = "Content-wrapper">
-            <form action="submition.php" method="POST">
+            <form action="submission.php" method="POST">
                 <table>
                     <tr> <th>Device ID</th>  <th>Force ON ?</th> <th>Start Time</th> <th>End time</th></tr>
 
