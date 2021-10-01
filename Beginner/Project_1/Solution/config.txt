@@ -1,0 +1,14 @@
+Spark-Projct1-RPI-Configuration
+-------------------------------
+
+[FORCELOG]
+Device_No_0=1
+Device_No_1=0
+Device_No_2=1
+Device_No_3=0
+
+[SHEDULE]
+Device_No_0=UNSHEDULED-->19:18
+Device_No_1=UNSHEDULED-->UNSHEDULED
+Device_No_2=00:02-->UNSHEDULED
+Device_No_3=UNSHEDULED-->16:00
